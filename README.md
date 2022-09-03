@@ -24,7 +24,7 @@ src="https://i.postimg.cc/BnBRyv3r/2022-09-01-22h55-05.png" />
 <br>
   <h2>Menu: Ventas</h2>
   <img aling="center" width="700" height="350"
-src="https://i.postimg.cc/8CFBvyZZ/2022-09-01-22h18-35.png" />
+src="https://i.postimg.cc/d3b0nkch/Ventas-factura.png" />
 
 <br>
     <h2>Menu: Clientes</h2>
